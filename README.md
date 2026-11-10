@@ -18,4 +18,8 @@ Instead of deleting toxic comments after they go live, E-Nudge steps in right be
 **[SightCheck AI](https://github.com/PhrenO0/sightcheck-ai)** · personal project<br>
 A seat map doesn't show what you'll actually see from the seat. I planned and built a prototype that turns venue floor plans into a 3D model so buyers can compare the view from two seats side by side before booking.
 
+#### Outside the repos
+
+- **Google Student Ambassador**, Chung-Ang University team lead · Made 24 short videos showing how Gemini fits into everyday campus life. 480K views, and our team placed 2nd nationally (Top Performance Team).
+- **Toss Foreigner Bridge Crew**, 2nd cohort · Marketing crew
 Contact · jun1234sang@gmail.com
