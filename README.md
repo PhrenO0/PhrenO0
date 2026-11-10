@@ -1,20 +1,21 @@
-### Hi, I'm Junsang Oh
+### Hi, I'm Junsang Oh.
 
-I plan AI products and build enough of them myself to test if they work.<br>
-Media & Communication + Urban Planning & Real Estate (double major), Chung-Ang University · Microsoft AI School (9th cohort)
+I plan products and build prototypes myself. Most of my work is taking messy, hard-to-read information and turning it into a product flow where people can quickly understand what's going on, make a call, and take the next step.
 
-#### Selected projects
+Studying Media & Communication and Urban Planning & Real Estate at Chung-Ang University · Microsoft AI School, 9th cohort. Looking for PM and service planning internships.
 
-| Project | Problem | Role | What's inside |
-| :--- | :--- | :--- | :--- |
-| [**AdGuard**](https://github.com/PhrenO0/MS_AI_2nd_Adguard)<br>MS AI School Project 2 · team of 6 | Flag legal risks in cosmetics ad copy before launch | Team lead<br>Led AI pipeline & system architecture | 5-layer review flow (rule check → legal source search → judgment → alternative copy → re-check), 1,069 chunks of laws and guidelines |
-| [**Hoerang (Mind Palace)**](https://github.com/PhrenO0/Mindpalace_Microsoft9ai_Thirdprj-)<br>MS AI School Project 3 · team of 7 | Turn study materials into a 3D space you can walk through to memorize | 3D spatial engine · UI/UX<br>Pitch: problem, market, business model | [Live demo](https://phreno0.github.io/Mindpalace_Microsoft9ai_Thirdprj-/), UX notes per screen, Responsible AI review |
-| [**E-Nudge**](https://github.com/PhrenO0/MS_AI_1st-E-nudge)<br>MS AI School Project 1 · team of 6 | Help people rewrite harmful comments right before posting, instead of deleting them afterward | Intervention UX<br>Image data & moderation threshold (Azure Custom Vision), model tests | Risk-based intervention flow (pass, warn, block), moderator dashboard |
-| [**SightCheck AI**](https://github.com/PhrenO0/sightcheck-ai)<br>Personal project | Compare views from different seats before booking show tickets | Planning · prototyping | 3D seat-view comparison MVP, operator review flow, tests |
+#### Projects
 
-#### How I work
+**[AdGuard](https://github.com/PhrenO0/MS_AI_2nd_Adguard)** · team lead, team of 6<br>
+When a compliance tool flags ad copy as illegal, marketers still get stuck figuring out how to rewrite it. AdGuard checks cosmetics copy against laws and guidelines, pulls up the exact clauses, and suggests safe alternatives they can use right away. I designed the 5-step pipeline and split the legal texts into 1,069 chunks by meaning so clauses wouldn't break mid-sentence.
 
-- Before adding features, I check where users get stuck.
-- AI can be wrong, so I make its limits clear in both the UI and the docs.
+**[Hoerang (Mind Palace)](https://github.com/PhrenO0/Mindpalace_Microsoft9ai_Thirdprj-)** · 3D engine & UI/UX, team of 7 · [live demo](https://phreno0.github.io/Mindpalace_Microsoft9ai_Thirdprj-/)<br>
+We turned study material into a 3D space you can walk through to memorize concepts by location. I built the 3D walkthrough engine and UI, and opened our final pitch covering the problem, market, and business model.
+
+**[E-Nudge](https://github.com/PhrenO0/MS_AI_1st-E-nudge)** · team of 6, my first team project<br>
+Instead of deleting toxic comments after they go live, E-Nudge steps in right before posting so writers can read the warning, decide, and edit their own words. I designed when and how that prompt appears, and handled the image moderation side: building the dataset, training Azure Custom Vision, and setting the blocking threshold.
+
+**[SightCheck AI](https://github.com/PhrenO0/sightcheck-ai)** · personal project<br>
+A seat map doesn't show what you'll actually see from the seat. I planned and built a prototype that turns venue floor plans into a 3D model so buyers can compare the view from two seats side by side before booking.
 
 Contact · jun1234sang@gmail.com
