@@ -20,7 +20,7 @@ A seat map doesn't show what you'll actually see from the seat. I planned and bu
 
 #### Outside the repos
 
-- **Google Student Ambassador (Team Gemini)**, Chung-Ang University team lead · Ran the campus campaign for Google AI Plan for Students, online and offline. Online, 24 Instagram posts, mostly AI-made videos about everyday campus life, drew about 480K views (one about the packed commuter bus hit 215K on its own). Offline, we got building-by-building approval for 80 posters, 10 banners and a 5-day LED billboard, and ran a sign-up proof event. Our team placed 2nd nationally (Top Performance Team).
-- **Toss Foreigner Bridge Crew**, 2nd cohort team lead · Ran content marketing for the Toss Visitor Card aimed at travelers from Japan. We published 27 posts across Instagram, Threads and X in three weeks and compared formats and channels in weekly reports. Narrated real-footage reels pulled the most views (1,762), while an AI-generated video reel got 257, so we shifted to real footage.
+- **Google Student Ambassador (Team Gemini)**, Chung-Ang University team lead · Running online and offline campaigns that get students to try and sign up for Google's AI plan for students.
+- **Toss Foreigner Bridge Crew**, 2nd cohort team lead · Ran content marketing for the Toss Visitor Card aimed at travelers from Japan, across Instagram, Threads and X.
 
 Contact · jun1234sang@gmail.com
