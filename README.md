@@ -20,6 +20,6 @@ A seat map doesn't show what you'll actually see from the seat. I planned and bu
 
 #### Outside the repos
 
-- **Google Student Ambassador**, Chung-Ang University team lead · Made 24 short videos showing how Gemini fits into everyday campus life. 480K views, and our team placed 2nd nationally (Top Performance Team).
+- **Google Student Ambassador**, Chung-Ang University team lead · Made 24 pieces of AI-made content about everyday student hassles like the commute. 480K views in total, and our team placed 2nd nationally (Top Performance Team).
 - **Toss Foreigner Bridge Crew**, 2nd cohort · Marketing crew
 Contact · jun1234sang@gmail.com
