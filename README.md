@@ -21,6 +21,6 @@ A seat map doesn't show what you'll actually see from the seat. I planned and bu
 #### Outside the repos
 
 - **Google Student Ambassador**, Chung-Ang University team lead · Made 24 pieces of AI-made content about everyday student hassles like the commute. 480K views in total, and our team placed 2nd nationally (Top Performance Team).
-- **Toss Foreigner Bridge Crew**, 2nd cohort team lead · Ran content marketing for the Toss card aimed at international students in Korea: planned the campaign and ran our Instagram and Threads.
+- **Toss Foreigner Bridge Crew**, 2nd cohort team lead · Ran content marketing for the Toss Visitor Card aimed at travelers from Japan. We published 27 posts across Instagram, Threads and X in three weeks and compared formats and channels in weekly reports. Narrated real-footage reels pulled the most views (1,762), while an AI-generated video reel got 257, so we shifted to real footage.
 
 Contact · jun1234sang@gmail.com
